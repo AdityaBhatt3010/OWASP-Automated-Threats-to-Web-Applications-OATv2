@@ -34,7 +34,7 @@ These threats are often carried out using bots, scripts, and headless browsers, 
 
 ---
 
-## 🚨 Breakdown of Each Threat (Expanded)
+## 🚨 Breakdown of Each Threat
 
 ### **OAT-001: Carding**
 **What**: Validating stolen/generated credit card details via payment forms.\
