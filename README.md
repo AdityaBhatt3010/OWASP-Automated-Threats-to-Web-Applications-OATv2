@@ -1,6 +1,6 @@
 # OWASP Automated Threats to Web Applications (OATv2) – A Concise Guide
 
----
+![Image](https://github.com/user-attachments/assets/58998470-86b9-4535-80c4-e0f4b8bbfa3a) <br/>
 
 ## 🔰 Introduction
 
